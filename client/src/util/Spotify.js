@@ -1,5 +1,5 @@
 const clientID = '8a2d5d0a7a234d4eb040dc7647ec5806';
-const redirectURI = 'http://thedualspace.surge.sh/';
+const redirectURI = 'https://jammming-app.herokuapp.com/';
 let accessToken = '';
 
 const Spotify = {
